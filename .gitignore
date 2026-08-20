@@ -47,3 +47,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# BMAD-METHOD (Python-backed skill scripts)
+__pycache__/
+*.pyc
